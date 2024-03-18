@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-/*LoginForm Styling*/
+/*RegisterForm Styling*/
 form {
     display: flex;
     flex-direction: column;

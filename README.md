@@ -1,7 +1,8 @@
 # Raiffeisen_FullStack_App
 
 ###################
-REPOSITORYUL APLICATIEI FINALIZATE ESTE URMATORUL ->>>   https://github.com/dumitrutony03/Frontend-RaiffeisenProject
+REPOSITORYUL APLICATIEI FINALIZATE ESTE URMATORUL -- FRONTEND -- ->>>   https://github.com/dumitrutony03/Frontend-RaiffeisenProject
+REPOSITORYUL APLICATIEI FINALIZATE ESTE URMATORUL -- BACKEND --  ->>>   https://github.com/dumitrutony03/Backend-RaiffeisenProject
 ###################
 
 Aplicatie realizata in cadrul proiectului Think Tank Lab - Raiffeisen - O experienta excelenta, alaturi de oameni foarte frumosi mereu dispusi sa ajute.
